@@ -14,7 +14,6 @@
 
 ## About Me
 
-# Hi, I'm Taskeen Fatima! 👋
 
 ### 💻 Beginner Web Developer | Python Developer | Aspiring QA Engineer
 
